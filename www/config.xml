@@ -15,7 +15,8 @@
     <author href="worcester.ac.uk" email="c.bowers@worc.ac.uk">
         WBS Computing
     </author>
-<gap:platform name="android" />
+		<gap:platform name="android" />
+		<gap:plugin name="com.ionic.keyboard" version="1.0.3" />
 
     <preference name="permissions"                value="none"/>   
 	
